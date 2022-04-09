@@ -5,7 +5,7 @@ then went on to do Unix system's programming, and finally ended up running a web
 including **WASE** (formerly named OH), an office-hours scheduling application which became the standard for scheduling faculty-student meetings at Princeton, 
 supporting upwards of 100,000 appointments per year.  WASE is being retired this year at Princeton, because it has no support community.  
 
-I will be uploading WASE to Github (it was built using an ECL 2 license) in the hope that other institutions will find it useful.
+I will be uploading WASE to Github (it uses the GNU General Public license) in the hope that other institutions will find it useful.
 
 
 
